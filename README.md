@@ -83,9 +83,9 @@
 ### 🔧 Tools  
 <p>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png"/>
+  <img src="https://img.icons8.com/glyph-neue/48/000000/github.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48"/>
 </p>
 
 ### 💡 Concepts  
