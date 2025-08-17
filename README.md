@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on **AI-powered apps & Full-Stack Projects**  
 - 🤝 I’m looking to collaborate on **real-world AI + Web Dev projects**  
 - 📚 I’m constantly learning **React.js, Node.js, MongoDB, Firebase, Streamlit**  
-- 💬 Ask me about **JavaScript, React.js, Node.js, Python, AI & Automation**  
+- 💬 Ask me about **JavaScript, React.js, Node.js, Python, AI & Automation,Software Development**  
 - 📫 How to reach me: **[samarthshekharmj@gmail.com](mailto:samarthshekharmj@gmail.com)**  
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/13fQyGTIs86XSYvbGhHmdzG2Exw9VOW7K/view)  
 
