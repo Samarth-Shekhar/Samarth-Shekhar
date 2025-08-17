@@ -72,21 +72,20 @@
 <p>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-  <img src="https://img.icons8.com/color/48/rest-api.png"/>
 </p>
 
 ### 🤖 AI / ML  
 <p>
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-  <img src="https://img.icons8.com/color/48/artificial-intelligence.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png"/>
 </p>
 
 ### 🔧 Tools  
 <p>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/ios-filled/48/000000/github.png"/>
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-postman-api-testing-soft-fill-soft-fill-juicy-fish.png"/>
+  <img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="48" height="48"/>
 </p>
 
 ### 💡 Concepts  
