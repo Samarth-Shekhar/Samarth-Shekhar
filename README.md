@@ -1,4 +1,4 @@
-[![Banner](https://raw.githubusercontent.com/Samarth-Shekhar/Samarth-Shekhar/main/banner.png)](https://www.linkedin.com/in/samarth-shekhar-185ba311a)
+[![Banner](https://raw.githubusercontent.com/Samarth-Shekhar/Samarth-Shekhar/main/banner.gif)](https://www.linkedin.com/in/samarth-shekhar-185ba311a)
 
 # Hi, I'm Samarth Shekhar 👋  
 
@@ -73,4 +73,5 @@ I love building **scalable web apps, integrating APIs, and creating AI-driven so
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=Samarth-Shekhar&color=blue)
+
 
