@@ -117,6 +117,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samarth-Shekhar&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true" alt="Contribution Graph"/>
 </p>
 
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Samarth-Shekhar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
+
+
 
 
 
