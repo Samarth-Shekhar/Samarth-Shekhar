@@ -1,17 +1,16 @@
-[![Banner](https://i.pinimg.com/originals/1a/1T/ax/1TaxW2XUL.jpg)](https://www.linkedin.com/in/samarth-shekhar-185ba311a)
+[![Banner](https://raw.githubusercontent.com/Samarth-Shekhar/Samarth-Shekhar/main/banner.png)](https://www.linkedin.com/in/samarth-shekhar-185ba311a)
 
 # Hi, I'm Samarth Shekhar 👋  
 
-### 🚀 Full Stack Developer | AI & Automation Enthusiast  
+---
 
-<p align="left">
-  Highly motivated <b>Full Stack Developer</b> with hands-on experience in <b>AI, automation, and MERN stack projects</b>.  
-  I love building <b>scalable web apps, integrating APIs, and creating AI-driven solutions</b> that improve user experiences.  
-</p>
+| <p align="left">  
+🚀 **Full Stack Developer | AI & Automation Enthusiast**  
 
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>
-</p>
+Highly motivated **Full Stack Developer** with hands-on experience in **AI, automation, and MERN stack projects**.  
+I love building **scalable web apps, integrating APIs, and creating AI-driven solutions** that improve user experiences.  
+</p> | <img src="https://raw.githubusercontent.com/Samarth-Shekhar/Samarth-Shekhar/main/coding.gif" width="250" alt="Coding GIF"/> |
+|---|---|
 
 ---
 
@@ -74,3 +73,4 @@
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=Samarth-Shekhar&color=blue)
+
