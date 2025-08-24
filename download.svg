@@ -1,0 +1,88 @@
+<!--?xml version="1.0" encoding="utf-8"?-->
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="220" viewBox="0 0 1100 220" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0" stop-color="#0b1220"></stop>
+      <stop offset="1" stop-color="#0f172a"></stop>
+    </linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000" flood-opacity="0.45"></feDropShadow>
+    </filter>
+    <style>
+      .card { fill: rgba(255,255,255,0.03); stroke: rgba(255,255,255,0.08); rx:12; }
+      .title { font-family: Inter, Roboto, Arial, sans-serif; font-size:14px; fill:#9fb8ff; font-weight:700; }
+      .value { font-family: Inter, Roboto, Arial, sans-serif; font-size:22px; fill:#ffffff; font-weight:700; }
+      .subtitle { font-family: Inter, Roboto, Arial, sans-serif; font-size:12px; fill:#bfcfe8; }
+      .small { font-family: Inter, Roboto, Arial, sans-serif; font-size:11px; fill:#9fb8ff; }
+      .accent { fill:#58a6ff; }
+      .circle { fill:#071226; stroke:#12324a; stroke-width:2px; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="100%" height="100%" fill="url(#g1)"></rect>
+
+  <!-- Card 1 -->
+  <g transform="translate(20,20)" filter="url(#shadow)">
+    <rect class="card" width="150" height="160" rx="12"></rect>
+    <!-- icon circle -->
+    <circle cx="30" cy="40" r="22" class="circle"></circle>
+    <text x="30" y="45" text-anchor="middle" class="title" fill="#ffd6a5" font-size="18">🏆</text>
+    <text x="80" y="55" class="title">Joined</text>
+    <text x="80" y="88" class="value">2020</text>
+    <text x="80" y="110" class="subtitle">Everything started...</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g transform="translate(190,20)" filter="url(#shadow)">
+    <rect class="card" width="150" height="160" rx="12"></rect>
+    <circle cx="30" cy="40" r="22" class="circle"></circle>
+    <text x="30" y="45" text-anchor="middle" class="title" fill="#c5ffd6" font-size="18">🏅</text>
+    <text x="80" y="55" class="title">Commits</text>
+    <text x="80" y="88" class="value">129</text>
+    <text x="80" y="110" class="subtitle">Total commits (2025)</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g transform="translate(360,20)" filter="url(#shadow)">
+    <rect class="card" width="150" height="160" rx="12"></rect>
+    <circle cx="30" cy="40" r="22" class="circle"></circle>
+    <text x="30" y="45" text-anchor="middle" class="title" fill="#ffd6ff" font-size="18">⭐</text>
+    <text x="80" y="55" class="title">Stars</text>
+    <text x="80" y="88" class="value">7</text>
+    <text x="80" y="110" class="subtitle">Total stars earned</text>
+  </g>
+
+  <!-- Card 4 -->
+  <g transform="translate(530,20)" filter="url(#shadow)">
+    <rect class="card" width="150" height="160" rx="12"></rect>
+    <circle cx="30" cy="40" r="22" class="circle"></circle>
+    <text x="30" y="45" text-anchor="middle" class="title" fill="#a5ffd6" font-size="18">🧭</text>
+    <text x="80" y="55" class="title">Contribs</text>
+    <text x="80" y="88" class="value">188</text>
+    <text x="80" y="110" class="subtitle">Total contributions</text>
+  </g>
+
+  <!-- Card 5 -->
+  <g transform="translate(700,20)" filter="url(#shadow)">
+    <rect class="card" width="150" height="160" rx="12"></rect>
+    <circle cx="30" cy="40" r="22" class="circle"></circle>
+    <text x="30" y="45" text-anchor="middle" class="title" fill="#ffd6d6" font-size="18">🔥</text>
+    <text x="80" y="55" class="title">Streak</text>
+    <text x="80" y="88" class="value">1</text>
+    <text x="80" y="110" class="subtitle">Current streak</text>
+  </g>
+
+  <!-- Card 6 -->
+  <g transform="translate(870,20)" filter="url(#shadow)">
+    <rect class="card" width="200" height="160" rx="12"></rect>
+    <circle cx="40" cy="40" r="22" class="circle"></circle>
+    <text x="40" y="45" text-anchor="middle" class="title" fill="#d6e0ff" font-size="18">📦</text>
+    <text x="110" y="55" class="title">Repositories</text>
+    <text x="110" y="88" class="value">—</text>
+    <text x="110" y="110" class="subtitle">Public repos</text>
+  </g>
+
+  <!-- bottom note -->
+  <text x="28" y="200" class="small">Generated for <tspan class="accent">Samarth-Shekhar</tspan> • Static SVG (self-hosted)</text>
+</svg>
