@@ -120,7 +120,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img alt="trophies" src="https://raw.githubusercontent.com/Samarth-Shekhar/Samarth-Shekhar/main/trophies.svg" />
+  <img alt="trophies" src="https://raw.githubusercontent.com/Samarth-Shekhar/Samarth-Shekhar/main/download.svg" />
 </p>
 
 
