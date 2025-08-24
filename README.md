@@ -120,8 +120,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samarth-Shekhar&theme=tokyonight&no-bg=true&no-frame=true&margin-w=12&margin-h=12&column=7&v=1" />
+  <img src="https://github-profile-trophy-api.herokuapp.com/?username=Samarth-Shekhar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
+
 
 
 
