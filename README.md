@@ -94,6 +94,7 @@
 - Deep Learning  
 - Prompt Engineering  
 - Responsive Design  
+- Agile Methodolgy
 
 ---
 
